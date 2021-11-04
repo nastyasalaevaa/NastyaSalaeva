@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JustApp</string>
+    <string name="result_button_title">Вычислить</string>
+</resources>
